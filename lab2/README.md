@@ -48,3 +48,5 @@ Total Score: 20/20
 
 - [实验报告](report/report.md)
 - [提示词记录](report/prompt.md)
+- [分支任务：QEMU 页表调试](report/debug.md)
+- [双 GDB 调试脚本](debug/dual_debug.sh)
